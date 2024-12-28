@@ -13,7 +13,7 @@ Run Instructions:
 
 1. The only module you would have to install is PIL/Pillow in order to load the images. Refer to this link for help https://www.cs.cmu.edu/~112/notes/tp-related-demos/tp-related-demos.html#installingModule
 2. The program is also running on CMU Graphics https://academy.cs.cmu.edu/desktop
-3. Download everything in this folder (src) into a new folder (set a good name).
+3. Download everything in this repository and put it into a folder (set a good name).
 4. From there, make sure your images are all in the images folder and your sounds are all in the sound folder.
 5. Open your new folder into any IDE (VsCode). 
 6. Run the main.py file to start the program.
