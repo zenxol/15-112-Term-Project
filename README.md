@@ -24,3 +24,6 @@ Shortcut Commands:
 - Go to the help menu to understand game controls
 - Pressing 'p' will pause the game when it is active
 - Also, you can press 'r' to reset the game when it is active
+
+Demo Video:
+[![15-112-Term-Project](https://img.youtube.com/vi/HGRiirn2G5Y)](https://www.youtube.com/watch?v=HGRiirn2G5Y)
