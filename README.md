@@ -26,4 +26,4 @@ Shortcut Commands:
 - Also, you can press 'r' to reset the game when it is active
 
 Demo Video:
-[![https://pbs.twimg.com/profile_images/1542813548799299587/Sl0y-aAL_400x400.jpg](https://img.youtube.com/vi/HGRiirn2G5Y)](https://www.youtube.com/watch?v=HGRiirn2G5Y)
+[!(https://img.youtube.com/vi/HGRiirn2G5Y)](https://www.youtube.com/watch?v=HGRiirn2G5Y)
